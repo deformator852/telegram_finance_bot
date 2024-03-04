@@ -5,7 +5,8 @@ class AddNewSpending(StatesGroup):
     amount = State()
     description = State()
     category = State()
+    date = State()
 
 
-class AddNewCategory(StatesGroup):
+class GetSpendingByCategory(StatesGroup):
     category_name = State()
