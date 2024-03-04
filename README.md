@@ -1,6 +1,6 @@
 # Finance Tracker Telegram Bot
 
-# The Finance Tracker Telegram Bot is designed to help users keep track of their finances conveniently through Telegram. Below are the key features of the bot:
+  #  The Finance Tracker Telegram Bot is designed to help users keep track of their finances conveniently through Telegram. Below are the key features of the bot:
 
 # Get Spending by Category:
 Users can retrieve their spending records filtered by category. By entering the name of a category, the bot will display all spending entries associated with that category.
